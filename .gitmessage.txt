@@ -6,7 +6,6 @@
 #
 #INFLEARN
 # [inflearn] 주제 [번호] - 제목:  solution 번호 (풀이형태)
-# [inflearn] Problem) 주제 번호.제목 - solution 번호 (풀이형태)
 # ex. [inflearn] String [2] - 대소문자변환:  solution 1(for문, Character(module))
 #
 # [inflearn] String [] - :  solution  ()
