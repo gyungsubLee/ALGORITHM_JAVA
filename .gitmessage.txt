@@ -1,0 +1,13 @@
+# LEETCODE
+# [leetcode] problem 번호 - 제목: solution 번호 (풀이 형태)
+# ex. [leetcode] problem 641 - Circular Deque : solution 1 (linked List) 
+#
+# [leetcode] problem  - : solution  ()
+#
+#
+#
+#INFLEARN
+# [inflearn] Problem) 주제 번호.제목 - solution 번호 (풀이형태)
+# ex. [inflearn] Problem) String 1.문자열 찾기 - solution 1(for문)
+#
+# [inflearn] Problem)  . - solution  ()
